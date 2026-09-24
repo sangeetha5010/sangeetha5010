@@ -1,6 +1,8 @@
 # 💫 About Me:
 💻I'm currently Learning Java in DSA.
+<br>
 🏫I'm currently studying in Atria Institute of Technology
+<br>
 💬Reach out to me at sangeethauk08@gmail.com
 
 

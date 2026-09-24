@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Software Enginner
+💻I'm currently Learning Java in DSA.
+🏫I'm currently studying in Atria Institute of Technology
+💬Reach out to me at sangeethauk08@gmail.com
 
 
 ## 🌐 Socials:
